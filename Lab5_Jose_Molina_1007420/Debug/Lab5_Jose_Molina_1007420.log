@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(2,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\Pila.h(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(4,9): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(621,22): warning C4101: 'e': variable local sin referencia
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(631,16): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(648,22): warning C4101: 'e': variable local sin referencia
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(838,21): warning C4101: 'e': variable local sin referencia
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(848,21): warning C4101: 'e': variable local sin referencia
+C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Lab5_Jose_Molina_1007420\MyForm.h(1043): warning C4715: 'Lab5JoseMolina1007420::MyForm::definir_letra': no todas las rutas de acceso de control devuelven un valor
+  Lista.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab5_Jose_Molina_1007420.vcxproj -> C:\Users\josda\source\repos\Lab5_Jose_Molina_1007420\Debug\Lab5_Jose_Molina_1007420.exe
